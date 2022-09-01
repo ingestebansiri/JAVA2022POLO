@@ -17,6 +17,8 @@ public class PruebaGIT {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("nueva prueba");
+        
+        System.out.println("nueva prueba 2");
     
     }
     
